@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barkokOmar
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer programming : c, java, python, ocaml, SQL
-- 💞️ I’m looking for a better way of collaborating with people on school projects
+- 👀 I’m interested in learning science
+- 🌱 I’m currently in a computer science major 
+- 💞️ I’m looking for a better way of collaborating with people on projects
 - 📫 How to reach me barkokomar@gmail.com
 
 <!---
